@@ -1,1 +1,2 @@
 # Cooper
+transitive operations
