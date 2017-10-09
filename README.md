@@ -1,2 +1,2 @@
 # Cooper
-transitive operations on relations
+transitive operations on relations.
